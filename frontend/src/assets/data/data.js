@@ -4,27 +4,27 @@ export const nav = [
     text: "home",
     url: "/",
   },
-  {
-    id: 2,
-    text: "about",
-    url: "/about",
-  },
-  {
-    id: 3,
-    text: "pages",
-    url: "/pages",
-  },
-  {
-    id: 4,
-    text: "blog",
-    url: "/blog",
-  },
-  {
-    id: 5,
-    text: "contact",
-    url: "/contact",
-  },
-]
+  // {
+  //   id: 2,
+  //   text: "about",
+  //   url: "/about",
+  // },
+  // {
+  //   id: 3,
+  //   text: "pages",
+  //   url: "/pages",
+  // },
+  // {
+  //   id: 4,
+  //   text: "blog",
+  //   url: "/blog",
+  // },
+  // {
+  //   id: 5,
+  //   text: "contact",
+  //   url: "/contact",
+  // },
+];
 export const category = [
   {
     id: 1,
@@ -74,7 +74,7 @@ export const category = [
     title: "There's always light at the end of the tunnel",
     cover: "../images/category/ca8.png",
   },
-]
+];
 export const blog = [
   {
     id: 1,
@@ -156,4 +156,4 @@ export const blog = [
     cover: "../images/category/ca1.png",
     date: "APRIL 05, 2018",
   },
-]
+];
